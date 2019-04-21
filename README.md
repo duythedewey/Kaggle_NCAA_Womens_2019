@@ -18,3 +18,4 @@ Evaluation of odds of one team winning over another was done via simulation of t
 - Simulation for each match up produces an output distribution representing the spread of each simulated match
 - The win probability is determined by the number of simulated matches won over the total number of simulated matches
 - 5000 simulations were run for each potential match up
+- Matches exempt from this process for overridding odds are high seed/low seed tournament matches
